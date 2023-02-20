@@ -1,0 +1,7 @@
+cv_xgb
+Fitting 5 folds for each of 432 candidates, totalling 2160 fits
+best cv_train : -0.002
+best cv_test : -0.060
+best refit rmse: -0.060
+test rmse: -0.066
+best_params_ :  {'colsample_bytree': 0.8, 'learning_rate': 0.05, 'max_depth': 7, 'n_estimators': 200, 'subsample': 1}
