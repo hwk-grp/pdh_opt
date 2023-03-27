@@ -7,7 +7,7 @@ To run the FCNN code, follow these steps:
 2. Go to the 02.ABC_FCNN.v1 directory and run command.csh. It provides optimized features with the highest score among the features that have been tried. This is what we did in our first round of the optimization.
 3. In the second round, the FCNN model can be built using the code from 03.FCNN.v2, and then the catalyst score was optimized using the code from 04.ABC_FCNN.v2.
 
-To run the XGB code, follow these steps:
+To run the XGB (XGBoost version 1.3.x) code, follow these steps:
 1. Go to the 01.XGB.v1 directory and run command.csh. (Note: command.csh is a C-shell script file.). You can build XGB models. It should be noted that the code has been tested with XGBoost version 1.3.x. 
 2. Go to the 02.ABC_XGB.v1 directory and run command.csh. It provides optimized features with the highest score among the features that have been tried. This is what we did in our first round of the optimization.
 3. In the second round, the XGB model can be built using the code from 03.XGB.v2, and then the catalyst score was optimized using the code from 04.ABC_XGB.v2.
