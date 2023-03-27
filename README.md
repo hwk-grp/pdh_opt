@@ -1,4 +1,4 @@
-# AI-guided design of new catalysts for propane dehydrogenation: Discovery and optimization of composition 
+# Artificial-intelligence-guided discovery and optimization of heterogeneous catalysts for propane dehydrogenation 
 
 This repository reported sample Python codes used to optimize catalyst composition and reaction conditions. We executed these codes sequentially for two different methods: XGBoost (XGB) and FCNN. We performed the optimization for two sequential rounds. Codes for the first round stored in directories whose names start with 01 and 02, and codes for the second round were in directories whose names start with 03 and 04. We saved the codes for constructing ML models separately. These ML models were utilized for the optimization using the ABC algorithm. These optimization codes were stored in directories with names starting with 02 and 04. Each directory contained commands actually used in the command.csh script file.
 
