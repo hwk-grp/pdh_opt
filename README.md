@@ -11,7 +11,7 @@ git clone https://github.com/hwk-grp/pdh_opt.git
 ```
 2. Create conda environment using environment.yml file. 
 ```
-# Tested in Linux (pytorch gpu ver.)
+# Tested in Linux 
 conda env create -f environment.yml
 ```
 
